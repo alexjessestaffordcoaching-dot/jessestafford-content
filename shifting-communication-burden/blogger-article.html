@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Jesse Stafford Coaching</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; }
+    body {
+      font-family: 'Source Sans Pro', sans-serif;
+      font-size: 17px;
+      line-height: 1.75;
+      color: #333333;
+      background: #ffffff;
+      margin: 0;
+      padding: 48px 24px;
+    }
+    .content {
+      max-width: 680px;
+      margin: 0 auto;
+    }
+    h1 {
+      font-size: 26px;
+      font-weight: 700;
+      color: #100299;
+      margin: 0 0 0.75em;
+      line-height: 1.25;
+    }
+    h2 {
+      font-size: 21px;
+      font-weight: 600;
+      color: #100299;
+      margin: 1.5em 0 0.5em;
+      line-height: 1.3;
+    }
+    p {
+      margin: 0 0 1.25em;
+    }
+    ul, ol {
+      margin: 0 0 1.25em;
+      padding-left: 1.5em;
+    }
+    li {
+      margin-bottom: 0.4em;
+    }
+    strong {
+      font-weight: 700;
+      color: #111111;
+    }
+    a {
+      text-decoration: underline;
+    }
+    a:hover {
+      opacity: 0.8;
+    }
+    .review-flag {
+      color: #8B0000;
+      font-weight: 700;
+    }
+    .title-options {
+      border: 2px solid #8B0000;
+      border-radius: 4px;
+      padding: 16px 20px;
+      margin-bottom: 2em;
+      background: #fff8f8;
+    }
+    .title-options-label {
+      color: #8B0000;
+      font-weight: 700;
+      font-size: 0.85em;
+      letter-spacing: 0.04em;
+      margin: 0 0 0.75em;
+    }
+    .title-options ol { margin: 0; padding-left: 1.5em; }
+    .title-options li { margin-bottom: 0.4em; }
+    .title-option-selected { font-weight: 700; }
+  </style>
+</head>
+<body>
+  <div class="content">
+<div class="title-options">
+  <p class="title-options-label">TITLE OPTIONS — SELECT ONE BEFORE PUBLISHING</p>
+  <ol>
+  <li class="title-option-selected">How to Make Sure Your Team Actually Reads Your Updates <em>(selected)</em></li>
+  <li>Your Team Isn't Using Your Wiki. That's Not Their Problem.</li>
+  <li>Why Doesn't Your Team Check the Dashboard You Built?</li>
+  <li>Building a Dashboard Is Not Communication</li>
+  </ol>
+</div>
+
+<p>Impact Labels: Technical visibility, Achiever overwhelm</p>
+
+<p><strong>Quick Bridge:</strong> Your update doc is organized, current, and going unread. The problem is not the tool you built. It is the missing delivery mechanism that tells people when to engage with it. This post explains the gap between &quot;I made it available&quot; and &quot;they actually received it&quot; and gives you three delivery triggers you can set up this week.</p>
+
+<p>---</p>
+
+<h1>Why Your Team Is Not Reading Your Updates (And the Fix That Takes 10 Minutes)</h1>
+
+<p>Something happens in many of the team communication systems I have worked with.</p>
+
+<p>You built a tool. A status dashboard, Confluence wiki, shared tracking sheet. You set it up carefully. You update it every week. You share the link.</p>
+
+<p>And then you wait for it to do the communication work.</p>
+
+<p>It does not.</p>
+
+<p>The 2026 Axios HQ Internal Communications Report puts a number on this gap: 80% of leaders believe their internal communications are clear and engaging. Only 50% of employees agree. <a href="https://www.axioshq.com/research/state-of-internal-communications-report" class="review-flag">(Axios HQ, 2026)</a> That disconnect is not usually a quality problem. It is a delivery problem. The information exists. It is just not reaching anyone.</p>
+
+<p>---</p>
+
+<h2>The Engineering Manager Communication Pattern That Frustrates Teams</h2>
+
+<p>The pattern starts innocently.</p>
+
+<p>A leader joins a team or starts a new role. They want to keep everyone aligned. They build the system: a dashboard, a wiki page, a shared document. They document everything. They keep it current.</p>
+
+<p>When team members ask questions the system answers, the frustration arrives. Did they not read the update? It was right there.</p>
+
+<p>This frustration is misdirected.</p>
+
+<p>The issue is not that people are not checking. The issue is that the system requires them to check, and nothing in their week prompts them to do it. Their to-do list does not include &quot;open the status doc.&quot; Their calendar does not have a reminder. Their inbox did not bring the information to them.</p>
+
+<p>The knowledge management field has a name for this. Researchers call it the &quot;Field of Dreams trap&quot;: the assumption that if you build it, they will come. A 2024 peer-reviewed study published in the NIH database examined knowledge management system adoption and found this assumption to be one of the primary failure modes: systems go unused not because they are poorly built, but because no mechanism exists to draw people into them at the right moment. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10950497/" class="review-flag">(PMC10950497, NIH)</a></p>
+
+<p>Building the system is not enough. Delivering the information is the actual work.</p>
+
+<p>---</p>
+
+<h2>Why Technical Visibility Requires Delivery, Not Just Organization</h2>
+
+<p>There is a distinction that changes everything about how you think about internal communication.</p>
+
+<p>Making information available is filing. Delivering it is communication.</p>
+
+<p>When you update a dashboard or wiki, you have created a place where the information lives. That is useful. But it is not communication until something causes that information to reach someone at a moment when they can engage with it.</p>
+
+<p><strong>Filing requires people to go looking. Communication requires them to receive.</strong></p>
+
+<p>Think about your team members at 2pm on a Tuesday. They are focused on a pull request, a design review, a sprint commitment. &quot;Check the shared dashboard&quot; is nowhere on their list. There is nothing wrong with them. They are doing their jobs.</p>
+
+<p>I have been on the other side of this pattern. As a senior leader, I have had team members tell me to check the status page or read through an email chain. My reaction was always the same. Make me dig through a long email history to find your update, and you are wasting my time. Send me the update, and you are not.</p>
+
+<p>Those two things feel similar. They produce completely different outcomes.</p>
+
+<p><strong>When you deliver information, the person receives it. When you organize it, they receive an opportunity to find it.</strong> Only one of those happens reliably.</p>
+
+<p>---</p>
+
+<h2>Three Delivery Triggers That Actually Work</h2>
+
+<p>The fix does not require a new tool or a rebuilt system.</p>
+
+<p>It requires a triggering event. A recurring moment when someone has bandwidth, context, and a reason to look at your information at the same time. Here is what that looks like in practice.</p>
+
+<p><strong>A weekly email with one highlight and a link.</strong> Not the full dashboard. One sentence: what changed this week and why it matters, with a link for anyone who wants the full details. The email is the trigger. The dashboard is the depth. This takes five minutes and reliably reaches people who would never open the dashboard on their own.</p>
+
+<p><strong>A standing agenda item in a meeting that already happens.</strong> Thirty seconds in the weekly standup or team sync. One thing from the status doc the whole team should know. You are not reading the update aloud. You are creating the moment that makes the dashboard feel relevant. Once people know there is always a brief callout, they start opening the doc to prepare.</p>
+
+<p><strong>A recurring calendar item with the link in the body.</strong> For longer-horizon updates, create a monthly calendar item that already contains the link. It lands on everyone's schedule. They see it coming. They open the doc before the meeting and arrive with context instead of questions.</p>
+
+<p>Each of these does the same thing: it creates an active delivery moment where none existed before. The content does not change. The delivery mechanism does.</p>
+
+<p>---</p>
+
+<h2>What This Pattern Costs Your Leadership Visibility</h2>
+
+<p>There is a second cost to passive update systems that leaders rarely consider.</p>
+
+<p>When your team does not know what you are tracking, coordinating, and managing, they do not give you credit for it. Not out of bad intent. They simply do not know.</p>
+
+<p>In my experience watching teams across many organizations, people default to assuming that if they do not know what you are doing for them, you are probably not doing much. This is not cynical. It is the natural inference when no active signal is coming in.</p>
+
+<p>Your leadership visibility operates the same way. If the work you do to keep the team aligned lives in a dashboard nobody opens, that work is invisible. The dashboard is not the communication. The delivery mechanism is. And the delivery mechanism is also what makes your contribution visible to the people who matter.</p>
+
+<p>A weekly email callout shows up in inboxes and creates a record of your coordination work. A standing agenda item makes your alignment effort visible in front of peers and leadership. A calendar item signals discipline and system thinking.</p>
+
+<p>The trigger you add to your update system is not just a delivery mechanism. It is the evidence that the leadership work is happening. That is the career visibility side of the same fix.</p>
+
+<p>A note worth adding: this is distinct from a communication volume problem. The 2026 Joinicology State of Workplace Communication report found that 44% of employees tune out even when message volume is &quot;about right.&quot; The issue here is not that leaders need to send more. It is that the updates they already send need a delivery mechanism that causes them to land. <a href="https://www.joinicology.com/insights/state-of-workplace-communication-2026" class="review-flag">(Joinicology, 2026)</a></p>
+
+<p>---</p>
+
+<h2>Monday Action</h2>
+
+<p>Look at one update you are responsible for. A status doc, a shared tracker, a project dashboard.</p>
+
+<p>Ask: what currently tells people when to look at this?</p>
+
+<p>If the answer is &quot;nothing,&quot; add one trigger this week. A short email with one callout and a link. Track what questions stop coming the following week.</p>
+
+<p>---</p>
+
+<ul>
+  <li>Related reading:</li>
+  <li><a href="https://enterprise-knowledge.com/why-km-efforts-fail/" class="review-flag">Enterprise Knowledge: Why KM Efforts Fail</a>: the &quot;Field of Dreams&quot; trap is the primary culprit in passive knowledge systems</li>
+  <li><a href="https://medium.com/@stafford.jesse" class="review-flag">&quot;Telling Your Team Something Once Isn't Leadership&quot;</a></li>
+  <li><a href="https://medium.com/@stafford.jesse" class="review-flag">&quot;I Spent Weeks Perfecting Data My Team Ignored. Then I Published the Mess.&quot;</a></li>
+</ul>
+
+<p>You're great at the work. Let's make you impossible to ignore.</p>
+
+<p>If you are looking for help making your leadership work visible to the people who need to see it, consider reaching out. jessestaffordcoaching.com</p>
+
+<p>What is one update system you run that has a delivery trigger and one that does not?</p>
+  </div>
+</body>
+</html>
