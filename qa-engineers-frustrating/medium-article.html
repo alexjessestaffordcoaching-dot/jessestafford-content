@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Jesse Stafford Coaching</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; }
+    body {
+      font-family: 'Source Sans Pro', sans-serif;
+      font-size: 18px;
+      line-height: 1.8;
+      color: #333333;
+      background: #ffffff;
+      margin: 0;
+      padding: 48px 24px;
+    }
+    .content {
+      max-width: 680px;
+      margin: 0 auto;
+    }
+    h1 {
+      font-size: 28px;
+      font-weight: 700;
+      color: #100299;
+      margin: 0 0 0.75em;
+      line-height: 1.25;
+    }
+    h2 {
+      font-size: 22px;
+      font-weight: 600;
+      color: #100299;
+      margin: 1.5em 0 0.5em;
+      line-height: 1.3;
+    }
+    p {
+      margin: 0 0 1.25em;
+    }
+    ul, ol {
+      margin: 0 0 1.25em;
+      padding-left: 1.5em;
+    }
+    li {
+      margin-bottom: 0.4em;
+    }
+    strong {
+      font-weight: 700;
+      color: #111111;
+    }
+    a {
+      text-decoration: underline;
+    }
+    a:hover {
+      opacity: 0.8;
+    }
+    .review-flag {
+      color: #8B0000;
+      font-weight: 700;
+    }
+    .title-options {
+      border: 2px solid #8B0000;
+      border-radius: 4px;
+      padding: 16px 20px;
+      margin-bottom: 2em;
+      background: #fff8f8;
+    }
+    .title-options-label {
+      color: #8B0000;
+      font-weight: 700;
+      font-size: 0.85em;
+      letter-spacing: 0.04em;
+      margin: 0 0 0.75em;
+    }
+    .title-options ol { margin: 0; padding-left: 1.5em; }
+    .title-options li { margin-bottom: 0.4em; }
+    .title-option-selected { font-weight: 700; }
+  </style>
+</head>
+<body>
+  <div class="content">
+<div class="title-options">
+  <p class="title-options-label">TITLE OPTIONS — SELECT ONE BEFORE PUBLISHING</p>
+  <ol>
+  <li class="title-option-selected">Your QA Engineers Aren't Slowing You Down. Here's What Is. <em>(selected)</em></li>
+  <li>I've Led QA Teams. Here's What Nobody Says Out Loud About Them.</li>
+  <li>Why Does Working With QA Feel So Hard?</li>
+  </ol>
+</div>
+
+<p>Platform: Medium | Target: 1,000-1,500 words | Schedule: 2026-06-24 (Tuesday) Pillar: C (Leadership Mindset &amp; Team Ownership), B (1-on-1s &amp; Communication) Status: DRAFT. Not approved.</p>
+
+<p>COMPOSITE NOTE: Jesse has directly managed a QA team (Story 70 context). The opening sprint review scene is a composite built from that experience and documented patterns across Stories 57, 38, and 64, and research in 01-topic-research.md. The specific meeting moment has not been confirmed by Jesse. See needs-jesse-review.md before approving.</p>
+
+<p>---</p>
+
+<p>Your QA Engineers Aren't Slowing You Down. Here's What Is.</p>
+
+<p>---</p>
+
+<p><strong>Quick Bridge:</strong> Working with QA feels like a constant negotiation: test counts, deadline pressure, and nobody in the room who can answer what would actually hurt customers if it shipped. The problem is not your QA engineers. It is the gap between what they are measured on and what you need from them. This post names the specific behaviors that drive leaders crazy, explains why QA defaults to metrics instead of risk, and gives you three conversations that change the relationship without a reorganization.</p>
+
+<p>---</p>
+
+<p>The sprint review just wrapped. QA reported their status: 247 test cases complete, 31 bugs filed, 8 marked critical. The release is three days out. Someone asks the one question that actually matters: what is the customer risk if we ship tomorrow?</p>
+
+<p>The room goes quiet.</p>
+
+<p>QA looks at the spreadsheet. More counts. Nobody in the room can answer the actual question.</p>
+
+<p>I have felt that frustration more times than I can count. For years, I pointed it at the QA team. I was pointing in the wrong direction.</p>
+
+<p>---</p>
+
+<h2>The Behaviors That Actually Frustrate Leaders</h2>
+
+<p>Let me name them specifically, because vague frustration does not help anyone see clearly.</p>
+
+<p>QA communicates in test cases, not risk. You get reports on how many tests ran, how many bugs were filed, how many are closed. Nobody tells you what might actually break for a customer.</p>
+
+<p>Nobody tells you which open bug, if it shipped, would generate a support call on Tuesday morning. The counts go up and the counts go down. You still cannot answer the question your VP is going to ask.</p>
+
+<p>QA accepts the time squeeze. Development runs long. QA gets the product two days before the release date with two hundred things to test.</p>
+
+<p>They work the weekend. They sign off. The product ships. Sprint after sprint.</p>
+
+<p>QA never pushes back on the terms. Not because they do not feel the pressure. Because they do not have the language to explain what the compression costs you.</p>
+
+<p>The architecture part was the one I did not expect. They know the test suite and what broke last time. They do not always know which components are fragile, which integrations are new, or which code paths changed in this sprint.</p>
+
+<p>They test broadly and equally not because they are lazy, but because nobody gave them the context to prioritize differently.</p>
+
+<p>Every one of these is a real frustration. I know because I managed QA teams and felt all of them. They are also symptoms, not causes.</p>
+
+<p>---</p>
+
+<h2>Why QA Communicates This Way</h2>
+
+<p>In every QA team I have worked with, the measurement was defect counts. Bugs found. Bugs closed. Test cycle completed on time.</p>
+
+<p>When your measurement is defects, you get very good at finding and documenting things that can be tracked and closed. You get less practiced at the harder question: of all the things that could go wrong in this release, which ones actually matter to the customer?</p>
+
+<p>That is a risk judgment. It requires knowing the product, the customer context, and the architecture well enough to assess where the real exposure is right now. QA is not measured on risk. It is measured on what can be documented and closed.</p>
+
+<p>There is a structural problem underneath this. QA is almost always last in line. Development runs long, scope does not shrink, and QA inherits whatever time remains. Every sprint.</p>
+
+<p>Pushing back on the deadline requires explaining what the compression costs in terms the business cares about. If QA has not developed that language yet, accepting the squeeze is the only available move.</p>
+
+<p><strong>This is not a QA personality problem. It is a measurement problem and a context problem.</strong> Leaders built those measurements. They often do not build the context around them.</p>
+
+<p>The frustration is legitimate. But it is pointed at the wrong target.</p>
+
+<p>---</p>
+
+<h2>What Changed</h2>
+
+<p>I managed a QA team directly for several years in game development. When I took them over, their goals were about individual output: how many defects they documented, whether the test cycle finished within the window they were given.</p>
+
+<p>Those goals measured what QA could control in isolation. They had nothing to do with what customers actually experienced.</p>
+
+<p>I changed the goals. They became about team-level outcomes: defects reaching customers, and whether the entire game team delivered on time. That meant QA had to get into conversations earlier.</p>
+
+<p>They had to understand what was being built and why. They could not stay at the end of the pipeline anymore and test whatever arrived.</p>
+
+<p>The team resisted the change. That part was not easy. But what I learned is this: the frustration I had been carrying was not really about their behavior. It was about the gap between what the measurement system was rewarding and what I actually needed from them.</p>
+
+<p>I also had to look at what I was giving them before each sprint started. I was not sharing context about which features were highest risk. I was not telling them which integrations were fragile.</p>
+
+<p>I was not asking for risk language. I was asking for test results.</p>
+
+<p><strong>If you ask for counts, you will keep getting counts.</strong></p>
+
+<p>I was doing the same thing. I was frustrated with QA and telling everyone about it except QA. Nothing changed until I took it to them directly.</p>
+
+<p>The frustration was real. It was also going everywhere except where it needed to go.</p>
+
+<p>---</p>
+
+<h2>Three Conversations That Change This</h2>
+
+<p>You do not need to reorganize QA. You need to change three specific conversations.</p>
+
+<p><strong>Tell QA what matters most before the sprint starts.</strong> Not the feature list. The specific thing that would hurt customers if it shipped broken. The payment flow nobody has touched in six months.</p>
+
+<p>Give QA the context that makes prioritization possible. Equal coverage is what happens when there is none.</p>
+
+<p>Ask for risk instead of status. Change &quot;how many test cases are left?&quot; to &quot;what concerns you most about this release?&quot; It takes a few sprints for QA to believe you actually want the honest answer.</p>
+
+<p>When they do, you get judgment instead of metrics. You get information you cannot get from a dashboard.</p>
+
+<p>Surface the tradeoffs when QA gets compressed. When development runs long and QA inherits a shortened window, your job is not to absorb that quietly. Make the tradeoffs explicit: if we run the full suite, we need two more days; if we ship Thursday, here are the areas we skip and here is what that means. Let the business decide with full information.</p>
+
+<p>QA cannot advocate for what they need without the language to explain why it matters to you. You can help them build it. Or you can stay frustrated that they are not providing it on their own.</p>
+
+<p>Related: <a href="https://medium.com/@stafford.jesse" class="review-flag">Context Beats Process Every Time</a> covers the broader principle: giving people context enables judgment. Giving them process requires them to stay in their lane.</p>
+
+<p>---</p>
+
+<h2>Monday Action</h2>
+
+<p>Before your next sprint review, tell your QA lead one specific thing: what would actually hurt your customers if it shipped broken in this release. Not a list. The one thing. Then ask them what they plan to prioritize differently because of that.</p>
+
+<p>Do not save this for the sprint review. Do it this week.</p>
+
+<p>---</p>
+
+<p>Have you ever changed how you work with QA and seen the dynamic shift? What actually moved it?</p>
+
+<p>You're great at the work. Let's make you impossible to ignore.</p>
+
+<p>If you are looking for help building stronger working relationships with technical teams, consider reaching out. https://www.jessestaffordcoaching.com</p>
+
+<p>Tags: Leadership, Management, Engineering Management, Career Advice, Professional Development</p>
+  </div>
+</body>
+</html>
