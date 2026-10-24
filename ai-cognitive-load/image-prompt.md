@@ -174,7 +174,25 @@
 
 ### Full Expanded Prompt
 
-[Concept 4's expanded prompt verbatim — 4:5, pump-house control room, Jesse frame-left with one hand on the largest valve wheel watching the single gauge, most switch positions blanked, charcoal schematic of the full former switch array in the top negative-space band, S mark on the central valve wheel hub cap, context box IT TOOK THE EASY WORK, NOT THE LOAD.]
+**COMPOSITION — most important:** 4:5 portrait single panel. A small pump-house control room. A single wall-mounted control panel fills the center and right of the frame. The upper half of the panel is a grid of switch cutouts, most of them empty blanking plates, only two small toggle switches left. The lower half carries three large, complex multi-turn valve wheels close together, and one round pressure gauge at eye height. Jesse stands frame-left at the panel, close and frontal, mid-scale, his left hand resting on the largest valve wheel, his head turned to watch the single gauge. The framing is tight — little room above his head, the panel crowding the right edge. Negative space is a narrow band along the top and the lower-left floor.
+
+**MECHANICAL ENVIRONMENT — second most important:** The valve wheels have exposed rising stems and visible bonnet threads; turning linkage runs from each down into a pipe manifold at floor level with flanged bolted joints. The two remaining toggle switches sit in a sub-panel with an exposed hinge. The pressure gauge has a visible bourdon-tube movement behind a glass face marked only with unlettered tick marks and a single charcoal needle. The empty switch positions are flat blanking plates. The charcoal schematic linework sits in the top negative-space band: a blueprint of a full switch array with every position filled and labeled with plain symbols, as unpainted annotation over the wall — the panel as it used to be. The S mark is cast into the hub cap of the central valve wheel.
+
+**Art style spec:** Crisp, uniform charcoal ink outlines (#333333), medium line weight throughout. Comic book precision — not sterile flat-art, not heavy superhero cross-hatching. Lines should suggest a technical patent drawing or a well-crafted indie comic panel. Loose, organic watercolor fills — visibly hand-painted. Color intentionally bleeds slightly outside the ink lines or leaves small white gaps at boundaries. Wet-edge textures and transparency variations are required — these are features, not errors. No digital gradients. No glow effects. No perfectly aligned fills. Base canvas: clean white paper texture (#ffffff). Single panel.
+
+**Aspect ratio:** 4:5
+
+**Color palette:** Primary watercolor wash: #100299 (deep blue). Canvas and negative space: #ffffff. Linework and shadows: #333333. Shadows are a semi-transparent charcoal watercolor wash — never solid black fill. The charcoal schematic layer stays unpainted linework. Supporting colors are allowed for depth and warmth but must not compete with the blue/white/charcoal triad. Here: a muted steel grey on the panel and pipework, a thin ochre wash on the gauge bezel.
+
+**Primary character:** Man in his early 40s. Short buzz-cut hair. Neatly trimmed short beard and mustache. Brown eyes. V-neck long sleeve shirt in deep blue (#100299) watercolor wash. Charcoal pants. Relaxed, unposed — never stiff or formal. Here: standing close to the panel frame-left, left hand on the largest valve wheel, head turned to watch the single gauge, steady and attentive. Direct and focused expression.
+
+**Scene description:** A real pump-house interior. Concrete floor with a drain channel, a pipe run entering from the right, a hard hat resting on a stool (unlettered). The panel's remaining switches and the gauge face carry no words, only symbols and tick marks. Blanking plates where switches were removed. No signage anywhere except the context box. Negative space kept as a thin band at the top. Do not fill the frame.
+
+**Context box:** Uppercase sans-serif text inside a solid white (#ffffff) rectangle with a sharp charcoal (#333333) border. Placed at the extreme bottom of the panel, sized to read at thumbnail scale — short line, large type. Text: IT TOOK THE EASY WORK, NOT THE LOAD
+
+**Tone guardrails:** This image should feel like two people talking through a real problem in plain language. Not a motivational poster. Not corporate. Not inspirational abstraction. Grounded, human, and specific. The setting is a real place. The charcoal schematic supports the scene from the negative space — it does not float across the middle of the frame and it does not compete with the scene.
+
+**Logo note:** Upload `brand/logos/logo-symbol-compact.png` alongside this prompt as a reference image. Incorporate the S mark into the scene as a cast emblem on the hub cap of the central valve wheel. Render it in charcoal linework or deep blue (#100299), integrated into the metal, never as a floating watermark.
 
 ---
 
