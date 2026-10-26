@@ -166,206 +166,238 @@
 
 ## Carousel
 
-**Shared setting:** Jesse's own desk and adjoining office nook, the same room across all seven slides, so the deck reads as one continuous space.
-**Shared mechanism family:** The small charcoal-gray puck device with its lit ring collar and needle gauge, recurring in every slide in a different position or state.
+**Shared setting:** Jesse's small office: his desk against the left wall, and a small round meeting table with two chairs in the right half of the room where he holds 1-on-1s. A window with half-open blinds on the back wall.
+**Shared mechanism family:** The palm-sized charcoal puck with its ring collar and gauge dial (lit when listening, dark when off), plus the handheld recorder in the turn.
+
+**Deck read-through:**
+1. Your 1-on-1s have a second audience now — Some managers already use AI to score how positive their team sounded in 1-on-1s. Not action items. Tone. Nobody asked the direct reports how that felt.
+2. A 1-on-1 is built for the hard thing — It's the one meeting where someone tells you what they'd never say in a group. A transcript makes them wonder who else will read it.
+3. I saw this with my own coaching clients — In training, I recorded client calls. Everyone agreed. Answers still got shorter. I swapped to a small recorder by my speakers. The answers got longer again.
+4. Consent is not the same as honesty — Same agreement, different answers. A signature doesn't make someone forget the second audience. And the transcript can't show you what it's costing you.
+5. Name the second audience out loud — Say who sees the notes, how long they're kept, and what the tool is for. If you can't say why it's in that meeting, it doesn't belong.
+6. Try this on Monday — Pick the 1-on-1 where you most need the honest version. Turn the notetaker off, tell them why, and watch how the length of their answers changes.
+7. A notebook still works for the conversations that matter — If a notetaker sat in on your last 1-on-1, would you have said everything the same way?
+
+**Cold-read check:** (a) Yes: slide 1 names the practice (AI grading 1-on-1 tone) and slide 2 says why a 1-on-1 is the worst place for it. (b) Yes: slide 3 tells the coaching-call story in full (consented recording, shorter answers, less visible recorder, longer answers), so slide 4's "consent is not honesty" is earned. (c) Yes: slide 6 is a specific Monday move (pick one 1-on-1, turn the tool off, say why, watch answer length), backed by slide 5's disclosure move. (d) Yes: each slide follows the last and none relies on its picture to make sense.
 
 ## Carousel Slide 1
 
-**Beat:** Cover
-**Context box:** A GRADE ON HOW HONEST YOU SOUNDED
+**Beat:** Hook
+**Headline:** Your 1-on-1s have a second audience now
+**Body:** Some managers already use AI to score how positive their team sounded in 1-on-1s. Not action items. Tone. Nobody asked the direct reports how that felt.
+**Source:** "Some managers are already using AI to score the sentiment of their team's 1-on-1s. Not action items. Whether the person sounded positive or negative. Nobody asked the direct reports if that felt okay." (linkedin-post.md)
+**Visual beat:** Concept 4's scene re-framed at 4:3: Jesse leaning over his desk, looking down at the lit gauge device. Establishes the object and the unease.
 
 ### Full Expanded Prompt
 
-**COMPOSITION — most important:** 4:5 single panel, portrait framing. Jesse's desk fills the lower two-thirds of the frame, seen from a slightly elevated angle looking down and across. Jesse stands just behind the desk in the upper portion of the frame, human scale, leaning down over the desk with both hands resting on its edge, looking down at a small device sitting at the center of the desk. The device, roughly the size of a coffee mug, combines a charcoal-gray puck body with a small round gauge dial mounted on its front face, needle visible. Background is a plain wall behind Jesse, kept simple and uncluttered.
+**COMPOSITION — most important:** 4:3 single panel, landscape. Medium-wide shot of Jesse's desk seen from a slightly elevated angle. Jesse stands behind the desk in the left-center of the frame at human scale, leaning down with both hands on the desk edge, looking down at the device at the desk's center. The device is small, roughly coffee-mug size, clearly readable as the focal point. The right third of the frame is open wall and window, kept quiet.
 
-**MECHANICAL ENVIRONMENT — second most important:** The device: matte charcoal-gray puck body, lit ring collar, and a small analog gauge dial on its front face with a visible needle resting between an unmarked charcoal-shaded zone and an unmarked blue-shaded zone, no numbers or text on the dial face. A closed notebook sits beside it, blank cover. A desk lamp with a visible articulating arm joint stands in the upper-left corner, off. Charcoal schematic linework occupies the upper-right corner of the frame, above and behind Jesse, rendered as a blueprint cutaway of the gauge's needle mechanism. The S mark sits within this schematic in the upper-right corner, unpainted charcoal.
+**MECHANICAL ENVIRONMENT — second most important:** The device: a palm-sized matte charcoal-gray puck with a ring collar around its upper rim and a small analog gauge dial on its front face, needle visible, dial face unmarked with no numbers or text. Ring collar lit, needle resting mid-dial. A closed notebook with a blank cover beside it. A desk lamp with a visible articulating arm joint at the far left, off. Charcoal schematic linework in the upper-right corner of the frame: a blueprint cutaway of the gauge's needle mechanism. The S mark sits within this schematic in the upper-right corner, unpainted charcoal.
 
 **Art style spec:** Crisp, uniform charcoal ink outlines (#333333), medium line weight throughout. Comic book precision — not sterile flat-art, not heavy superhero cross-hatching. Lines should suggest a technical patent drawing or a well-crafted indie comic panel. Loose, organic watercolor fills — visibly hand-painted. Color intentionally bleeds slightly outside the ink lines or leaves small white gaps at boundaries. Wet-edge textures and transparency variations are required — these are features, not errors. No digital gradients. No glow effects. No perfectly aligned fills. Base canvas: clean white paper texture (#ffffff). Single panel.
 
-**Aspect ratio:** 4:5
+**Aspect ratio:** 4:3
 
-**Color palette:** Primary watercolor wash: #100299 (deep blue). Canvas and negative space: #ffffff. Linework and shadows: #333333. Shadows are a semi-transparent charcoal watercolor wash, never solid black fill. The charcoal schematic layer stays unpainted linework. Supporting colors are allowed for depth and warmth but must not compete with the blue/white/charcoal triad. The gauge's needle and blue-shaded zone use the primary deep blue as a small accent.
+**Color palette:** Primary watercolor wash: #100299 (deep blue). Canvas and negative space: #ffffff. Linework and shadows: #333333. Shadows are a semi-transparent charcoal watercolor wash, never solid black fill. The charcoal schematic layer stays unpainted linework. Supporting colors are allowed for depth and warmth but must not compete with the blue/white/charcoal triad. The device's lit ring collar uses a small, contained warm amber wash; when the device is off, the collar is plain charcoal.
 
-**Primary character:** Man in his early 40s. Short buzz-cut hair. Neatly trimmed short beard and mustache. Brown eyes. V-neck long sleeve shirt in deep blue (#100299) watercolor wash. Charcoal pants. Relaxed, unposed, leaning over the desk with both hands resting on its edge, shoulders slightly hunched forward, expression calm and grounded with a trace of quiet unease, looking down at the gauge rather than at the viewer.
+**Primary character:** Man in his early 40s. Short buzz-cut hair. Neatly trimmed short beard and mustache. Brown eyes. V-neck long sleeve shirt in deep blue (#100299) watercolor wash. Charcoal pants. Relaxed, unposed — never stiff or formal. Leaning over the desk with both hands on its edge, shoulders slightly hunched, expression calm with a trace of quiet unease, looking down at the gauge.
 
-**Scene description:** The desk surface is plain wood-toned watercolor wash, uncluttered aside from the device, the notebook, and the lamp. The wall behind Jesse is bare, kept simple so the frame stays tight on him and the device. Negative space sits in the upper-right corner for the schematic layer. The notebook cover and lamp base are explicitly blank, no lettering.
+**Scene description:** Jesse's small office: his desk against the left wall, and a small round meeting table with two chairs in the right half of the room where he holds 1-on-1s. A window with half-open blinds on the back wall. Only the desk side of the room is in frame. The notebook cover, lamp base, and blinds are blank and unlettered. Negative space in the upper-right corner is left open for the schematic layer.
 
-**Context box:** Uppercase sans-serif text inside a solid white (#ffffff) rectangle with a sharp charcoal (#333333) border. Placed at the extreme bottom of the panel, sized to read clearly at thumbnail scale. Text: A GRADE ON HOW HONEST YOU SOUNDED
+**Context box:** None. This panel carries no text of any kind — no caption box, no labels, no lettering. Every letterable surface is blank.
 
 **Tone guardrails:** This image should feel like two people talking through a real problem in plain language. Not a motivational poster. Not corporate (no handshakes, whiteboards, or team huddles). Not inspirational abstraction. Grounded, human, and specific. The setting is a real place. The charcoal schematic supports the scene from the negative space — it does not float across the middle of the frame and it does not compete with the scene.
 
-**Logo note:** Upload `brand/logos/logo-symbol-compact.png` alongside this prompt as a reference image. Incorporate the S mark into the scene worked into the charcoal schematic gauge-mechanism cutaway in the upper-right corner. Render it in charcoal linework, integrated into the annotation, never as a floating watermark.
+**Logo note:** Upload `brand/logos/logo-symbol-compact.png` alongside this prompt as a reference image. Incorporate the S mark into the scene as a stamped component label within the charcoal schematic in the upper-right corner of the frame. Render it in charcoal linework, integrated into the annotation, never as a floating watermark.
 
 ---
 
 ## Carousel Slide 2
 
-**Beat:** A manager uses AI to score the sentiment of 1-on-1s
-**Context box:** NOT NOTES. A GRADE ON YOUR TONE
+**Beat:** Setup
+**Headline:** A 1-on-1 is built for the hard thing
+**Body:** It's the one meeting where someone tells you what they'd never say in a group. A transcript makes them wonder who else will read it.
+**Source:** "It is supposed to be the place where a direct report tells you the thing they would not say in a group. The moment they have to think about who else might read the transcript..." (medium-article.md)
+**Visual beat:** The 1-on-1 in progress at the round table. The device sits between Jesse and a direct report, who leans back and glances at it instead of at Jesse.
 
 ### Full Expanded Prompt
 
-**COMPOSITION — most important:** 4:5 single panel, portrait framing. The same desk nook as Slide 1, seen from a similar elevated angle. Jesse sits at the desk chair, upper body turned toward the device, one hand hovering just above it without touching it, looking at the gauge dial with focused attention. The device sits at the center-right of the desk, at the same scale and position as Slide 1, needle now visibly leaning into the charcoal-shaded zone of the dial.
+**COMPOSITION — most important:** 4:3 single panel, landscape. The round meeting table fills the lower-center of the frame. Jesse sits on the left, leaning forward, forearms on the table, attention on the other person. A woman in her thirties in a plain charcoal sweater sits on the right, leaning back in her chair, arms loosely folded, her eyes cut sideways and down toward the device at the table's center rather than toward Jesse. Both people at equal human scale. The small device sits exactly between them.
 
-**MECHANICAL ENVIRONMENT — second most important:** Same device as Slide 1: charcoal-gray puck body, lit ring collar, analog gauge dial with needle now tilted toward the charcoal zone, still unmarked, no numbers or text. The closed notebook and desk lamp remain in their Slide 1 positions. Charcoal schematic linework again occupies the upper-right corner, this time showing a blueprint annotation of a small internal microphone-to-needle linkage inside the device. The S mark sits within this schematic in the same upper-right position, unpainted charcoal.
+**MECHANICAL ENVIRONMENT — second most important:** The device: a palm-sized matte charcoal-gray puck with a ring collar around its upper rim and a small analog gauge dial on its front face, needle visible, dial face unmarked with no numbers or text. Ring collar lit. A coffee mug with no text or logo near her hand. The window blinds behind her show visible slat mechanism, half-open. Charcoal schematic linework in the upper-right corner: a blueprint of the device's microphone pickup pattern, fine concentric arcs, kept above the figures and not touching them. The S mark sits within this schematic in the upper-right corner, unpainted charcoal.
 
 **Art style spec:** Crisp, uniform charcoal ink outlines (#333333), medium line weight throughout. Comic book precision — not sterile flat-art, not heavy superhero cross-hatching. Lines should suggest a technical patent drawing or a well-crafted indie comic panel. Loose, organic watercolor fills — visibly hand-painted. Color intentionally bleeds slightly outside the ink lines or leaves small white gaps at boundaries. Wet-edge textures and transparency variations are required — these are features, not errors. No digital gradients. No glow effects. No perfectly aligned fills. Base canvas: clean white paper texture (#ffffff). Single panel.
 
-**Aspect ratio:** 4:5
+**Aspect ratio:** 4:3
 
-**Color palette:** Primary watercolor wash: #100299 (deep blue). Canvas and negative space: #ffffff. Linework and shadows: #333333. Shadows are a semi-transparent charcoal watercolor wash, never solid black fill. The charcoal schematic layer stays unpainted linework. Supporting colors are allowed for depth and warmth but must not compete with the blue/white/charcoal triad.
+**Color palette:** Primary watercolor wash: #100299 (deep blue). Canvas and negative space: #ffffff. Linework and shadows: #333333. Shadows are a semi-transparent charcoal watercolor wash, never solid black fill. The charcoal schematic layer stays unpainted linework. Supporting colors are allowed for depth and warmth but must not compete with the blue/white/charcoal triad. The device's lit ring collar uses a small, contained warm amber wash; when the device is off, the collar is plain charcoal.
 
-**Primary character:** Man in his early 40s. Short buzz-cut hair. Neatly trimmed short beard and mustache. Brown eyes. V-neck long sleeve shirt in deep blue (#100299) watercolor wash. Charcoal pants. Relaxed, unposed, seated, one hand hovering just above the device, expression calm and grounded with focused attention on the dial.
+**Primary character:** Man in his early 40s. Short buzz-cut hair. Neatly trimmed short beard and mustache. Brown eyes. V-neck long sleeve shirt in deep blue (#100299) watercolor wash. Charcoal pants. Relaxed, unposed — never stiff or formal. Seated, leaning forward, forearms on the table, expression open and attentive, looking at her.
 
-**Scene description:** Same desk, notebook, and lamp as Slide 1, kept in matching positions so the deck reads as one continuous room. Negative space sits in the upper-right corner for the schematic layer. Notebook and lamp remain explicitly blank.
+**Scene description:** Jesse's small office: his desk against the left wall, and a small round meeting table with two chairs in the right half of the room where he holds 1-on-1s. A window with half-open blinds on the back wall. Only the round-table side of the room is in frame. Mug, blinds, and any paper are blank and unlettered. Negative space in the upper-right corner is left open for the schematic layer.
 
-**Context box:** Uppercase sans-serif text inside a solid white (#ffffff) rectangle with a sharp charcoal (#333333) border. Placed at the extreme bottom of the panel. Text: NOT NOTES. A GRADE ON YOUR TONE
+**Context box:** None. This panel carries no text of any kind — no caption box, no labels, no lettering. Every letterable surface is blank.
 
 **Tone guardrails:** This image should feel like two people talking through a real problem in plain language. Not a motivational poster. Not corporate (no handshakes, whiteboards, or team huddles). Not inspirational abstraction. Grounded, human, and specific. The setting is a real place. The charcoal schematic supports the scene from the negative space — it does not float across the middle of the frame and it does not compete with the scene.
 
-**Logo note:** Upload `brand/logos/logo-symbol-compact.png` alongside this prompt as a reference image. Incorporate the S mark into the scene worked into the charcoal schematic microphone-linkage annotation in the upper-right corner. Render it in charcoal linework, integrated into the annotation, never as a floating watermark.
+**Logo note:** Upload `brand/logos/logo-symbol-compact.png` alongside this prompt as a reference image. Incorporate the S mark into the scene as a stamped component label within the charcoal schematic in the upper-right corner of the frame. Render it in charcoal linework, integrated into the annotation, never as a floating watermark.
 
 ---
 
 ## Carousel Slide 3
 
-**Beat:** Nobody asked the direct reports if that felt okay
-**Context box:** NOBODY ASKED IF THAT FELT OKAY
+**Beat:** The turn
+**Headline:** I saw this with my own coaching clients
+**Body:** In training, I recorded client calls. Everyone agreed. Answers still got shorter. I swapped to a small recorder by my speakers. The answers got longer again.
+**Source:** "Clients gave shorter answers once the recording started... I switched to a handheld voice recorder I set next to my speakers. Same recording. Same consent. Less visible apparatus. The answers got longer again." (medium-article.md)
+**Visual beat:** Jesse's earlier coaching setup at the same desk: a video call on an open laptop, a small handheld recorder tucked beside a desktop speaker. The gauge device is absent. Jesse is engaged with the person on screen.
 
 ### Full Expanded Prompt
 
-**COMPOSITION — most important:** 4:5 single panel, portrait framing. Same desk nook, seen from the same angle. A second chair, empty, now sits across the desk from Jesse's chair in the lower-left of the frame, closer to the viewer than the desk. Jesse sits at his desk in the upper-right portion of the frame, at human scale, one hand resting on a single sheet of paper on the desk rather than on the device. The device sits beside the paper, ring collar lit.
+**COMPOSITION — most important:** 4:3 single panel, landscape. Jesse's desk, same angle as Slide 1. Jesse sits at the desk in the left-center of the frame, leaning slightly toward an open laptop, one hand open mid-gesture, clearly engaged in a conversation. On the laptop screen, a softly rendered head-and-shoulders of a client in a neutral charcoal top, face relaxed, mid-sentence. To the right of the laptop, a small desktop speaker, and tucked beside it, easy to miss, a small handheld voice recorder standing upright. The gauge device is not in this frame.
 
-**MECHANICAL ENVIRONMENT — second most important:** Same device as prior slides: charcoal-gray puck body, lit ring collar, gauge dial with needle centered, unmarked. The single sheet of paper under Jesse's hand has a single visible signature line near its bottom edge, rendered as a plain blank line with no text above or below it (the one text element this slide allows, and it carries no words, just the line itself). The empty chair shows a visible swivel-base mechanism. Charcoal schematic linework occupies the upper-right corner, showing the same gauge-mechanism annotation as Slide 1, kept consistent across the deck. The S mark sits in the same upper-right position, unpainted charcoal.
+**MECHANICAL ENVIRONMENT — second most important:** The handheld recorder: simple rectangular body, a small red record light on, a pressed record button, unlettered. The desktop speaker shows a visible driver cone. The laptop hinge is visible; the screen shows only the client, with no interface text, windows, or labels. Charcoal schematic linework in the upper-right corner: a blueprint cutaway of the recorder's internal microphone capsule. The S mark sits within this schematic in the upper-right corner, unpainted charcoal.
 
 **Art style spec:** Crisp, uniform charcoal ink outlines (#333333), medium line weight throughout. Comic book precision — not sterile flat-art, not heavy superhero cross-hatching. Lines should suggest a technical patent drawing or a well-crafted indie comic panel. Loose, organic watercolor fills — visibly hand-painted. Color intentionally bleeds slightly outside the ink lines or leaves small white gaps at boundaries. Wet-edge textures and transparency variations are required — these are features, not errors. No digital gradients. No glow effects. No perfectly aligned fills. Base canvas: clean white paper texture (#ffffff). Single panel.
 
-**Aspect ratio:** 4:5
+**Aspect ratio:** 4:3
 
-**Color palette:** Primary watercolor wash: #100299 (deep blue). Canvas and negative space: #ffffff. Linework and shadows: #333333. Shadows are a semi-transparent charcoal watercolor wash, never solid black fill. The charcoal schematic layer stays unpainted linework. Supporting colors are allowed for depth and warmth but must not compete with the blue/white/charcoal triad.
+**Color palette:** Primary watercolor wash: #100299 (deep blue). Canvas and negative space: #ffffff. Linework and shadows: #333333. Shadows are a semi-transparent charcoal watercolor wash, never solid black fill. The charcoal schematic layer stays unpainted linework. Supporting colors are allowed for depth and warmth but must not compete with the blue/white/charcoal triad. The device's lit ring collar uses a small, contained warm amber wash; when the device is off, the collar is plain charcoal.
 
-**Primary character:** Man in his early 40s. Short buzz-cut hair. Neatly trimmed short beard and mustache. Brown eyes. V-neck long sleeve shirt in deep blue (#100299) watercolor wash. Charcoal pants. Relaxed, unposed, seated at the desk, one hand resting on the sheet of paper, expression calm and grounded, looking toward the empty chair rather than down at the paper.
+**Primary character:** Man in his early 40s. Short buzz-cut hair. Neatly trimmed short beard and mustache. Brown eyes. V-neck long sleeve shirt in deep blue (#100299) watercolor wash. Charcoal pants. Relaxed, unposed — never stiff or formal. Seated, leaning toward the laptop, one hand open mid-gesture, expression warm and engaged, listening.
 
-**Scene description:** Same desk and device as prior slides. The empty chair, unoccupied, sits closer to the viewer, implying the direct report who was never asked. Negative space sits in the upper-right corner. No other surface carries lettering.
+**Scene description:** The same office and desk as Slide 1, earlier in time. Lamp, notebook, speaker, and recorder are blank and unlettered; the laptop screen carries no text. Negative space in the upper-right corner is left open for the schematic layer.
 
-**Context box:** Uppercase sans-serif text inside a solid white (#ffffff) rectangle with a sharp charcoal (#333333) border. Placed at the extreme bottom of the panel. Text: NOBODY ASKED IF THAT FELT OKAY
+**Context box:** None. This panel carries no text of any kind — no caption box, no labels, no lettering. Every letterable surface is blank.
 
 **Tone guardrails:** This image should feel like two people talking through a real problem in plain language. Not a motivational poster. Not corporate (no handshakes, whiteboards, or team huddles). Not inspirational abstraction. Grounded, human, and specific. The setting is a real place. The charcoal schematic supports the scene from the negative space — it does not float across the middle of the frame and it does not compete with the scene.
 
-**Logo note:** Upload `brand/logos/logo-symbol-compact.png` alongside this prompt as a reference image. Incorporate the S mark into the scene worked into the charcoal schematic gauge-mechanism annotation in the upper-right corner. Render it in charcoal linework, integrated into the annotation, never as a floating watermark.
+**Logo note:** Upload `brand/logos/logo-symbol-compact.png` alongside this prompt as a reference image. Incorporate the S mark into the scene as a stamped component label within the charcoal schematic in the upper-right corner of the frame. Render it in charcoal linework, integrated into the annotation, never as a floating watermark.
 
 ---
 
 ## Carousel Slide 4
 
-**Beat:** Jesse's own coaching-call recorder story
-**Context box:** SAME CONSENT. SHORTER ANSWERS.
+**Beat:** The insight
+**Headline:** Consent is not the same as honesty
+**Body:** Same agreement, different answers. A signature doesn't make someone forget the second audience. And the transcript can't show you what it's costing you.
+**Source:** "Getting consent is the legal minimum, not the fix. A signature does not make someone forget there is a second audience... the tool cannot show you what it is costing you." (medium-article.md)
+**Visual beat:** The absent element: after a 1-on-1, a signed consent sheet lies on the round table next to the still-lit device. Her chair is pushed back and empty. Jesse stands looking down at the two objects.
 
 ### Full Expanded Prompt
 
-**COMPOSITION — most important:** 4:5 single panel, portrait framing. Same desk nook, seen from the same angle, now standing in for Jesse's old coaching setup. The gauge-dial device from prior slides is absent from the desk. In its place, a small handheld voice recorder sits upright next to a pair of desktop speakers at the center of the desk. Jesse sits at the desk, upper body turned toward the recorder, one hand resting near it, expression reflective, looking slightly past it as though remembering something rather than watching it.
+**COMPOSITION — most important:** 4:3 single panel, landscape. The round meeting table in the center of the frame. On it: a single sheet of paper with a signature scrawl at the bottom, and beside it the small device, ring still lit. The chair on the right is pushed back from the table at an angle, empty, as if someone just left. Jesse stands on the left side of the table at human scale, one hand resting on the back of his own chair, looking down at the paper and the device together.
 
-**MECHANICAL ENVIRONMENT — second most important:** The handheld recorder: a simple rectangular body with a single record button shown pressed inward and a small spinning reel-style level indicator on its face, unlettered. The desktop speakers beside it show visible driver cones. The notebook and lamp from prior slides remain in their same positions. Charcoal schematic linework occupies the upper-right corner, this time showing a blueprint annotation of the recorder's internal reel mechanism, replacing the gauge annotation used in earlier slides but kept in the same frame position for visual consistency. The S mark sits in this same upper-right position, unpainted charcoal.
+**MECHANICAL ENVIRONMENT — second most important:** The device: a palm-sized matte charcoal-gray puck with a ring collar around its upper rim and a small analog gauge dial on its front face, needle visible, dial face unmarked with no numbers or text. Ring collar lit. The paper: plain sheet, body blank, a loose ink signature scrawl near its bottom edge is the only mark, no legible words. The empty chair shows a visible swivel base. Charcoal schematic linework in the upper-right corner: a blueprint of the device's internal recording circuit with a line trailing off the frame edge. The S mark sits within this schematic in the upper-right corner, unpainted charcoal.
 
 **Art style spec:** Crisp, uniform charcoal ink outlines (#333333), medium line weight throughout. Comic book precision — not sterile flat-art, not heavy superhero cross-hatching. Lines should suggest a technical patent drawing or a well-crafted indie comic panel. Loose, organic watercolor fills — visibly hand-painted. Color intentionally bleeds slightly outside the ink lines or leaves small white gaps at boundaries. Wet-edge textures and transparency variations are required — these are features, not errors. No digital gradients. No glow effects. No perfectly aligned fills. Base canvas: clean white paper texture (#ffffff). Single panel.
 
-**Aspect ratio:** 4:5
+**Aspect ratio:** 4:3
 
-**Color palette:** Primary watercolor wash: #100299 (deep blue). Canvas and negative space: #ffffff. Linework and shadows: #333333. Shadows are a semi-transparent charcoal watercolor wash, never solid black fill. The charcoal schematic layer stays unpainted linework. Supporting colors are allowed for depth and warmth but must not compete with the blue/white/charcoal triad.
+**Color palette:** Primary watercolor wash: #100299 (deep blue). Canvas and negative space: #ffffff. Linework and shadows: #333333. Shadows are a semi-transparent charcoal watercolor wash, never solid black fill. The charcoal schematic layer stays unpainted linework. Supporting colors are allowed for depth and warmth but must not compete with the blue/white/charcoal triad. The device's lit ring collar uses a small, contained warm amber wash; when the device is off, the collar is plain charcoal.
 
-**Primary character:** Man in his early 40s. Short buzz-cut hair. Neatly trimmed short beard and mustache. Brown eyes. V-neck long sleeve shirt in deep blue (#100299) watercolor wash. Charcoal pants. Relaxed, unposed, seated, one hand resting near the recorder, expression calm and reflective, looking slightly past the object.
+**Primary character:** Man in his early 40s. Short buzz-cut hair. Neatly trimmed short beard and mustache. Brown eyes. V-neck long sleeve shirt in deep blue (#100299) watercolor wash. Charcoal pants. Relaxed, unposed — never stiff or formal. Standing, one hand on the chair back, weight settled, expression thoughtful and a little troubled, looking down at the table.
 
-**Scene description:** Same desk as prior slides, notebook and lamp unchanged, the gauge-dial device swapped for the handheld recorder and speakers to carry the memory beat. Negative space sits in the upper-right corner. No surface carries lettering.
+**Scene description:** Jesse's small office: his desk against the left wall, and a small round meeting table with two chairs in the right half of the room where he holds 1-on-1s. A window with half-open blinds on the back wall. The round-table side of the room. Nothing in frame carries legible lettering. Negative space in the upper-right corner is left open for the schematic layer.
 
-**Context box:** Uppercase sans-serif text inside a solid white (#ffffff) rectangle with a sharp charcoal (#333333) border. Placed at the extreme bottom of the panel. Text: SAME CONSENT. SHORTER ANSWERS.
+**Context box:** None. This panel carries no text of any kind — no caption box, no labels, no lettering. Every letterable surface is blank.
 
 **Tone guardrails:** This image should feel like two people talking through a real problem in plain language. Not a motivational poster. Not corporate (no handshakes, whiteboards, or team huddles). Not inspirational abstraction. Grounded, human, and specific. The setting is a real place. The charcoal schematic supports the scene from the negative space — it does not float across the middle of the frame and it does not compete with the scene.
 
-**Logo note:** Upload `brand/logos/logo-symbol-compact.png` alongside this prompt as a reference image. Incorporate the S mark into the scene worked into the charcoal schematic reel-mechanism annotation in the upper-right corner. Render it in charcoal linework, integrated into the annotation, never as a floating watermark.
+**Logo note:** Upload `brand/logos/logo-symbol-compact.png` alongside this prompt as a reference image. Incorporate the S mark into the scene as a stamped component label within the charcoal schematic in the upper-right corner of the frame. Render it in charcoal linework, integrated into the annotation, never as a floating watermark.
 
 ---
 
 ## Carousel Slide 5
 
-**Beat:** Consent is not the same as honesty
-**Context box:** CONSENT IS NOT THE SAME AS HONESTY
+**Beat:** Framework part 1
+**Headline:** Name the second audience out loud
+**Body:** Say who sees the notes, how long they're kept, and what the tool is for. If you can't say why it's in that meeting, it doesn't belong.
+**Source:** "Name the second audience out loud... say plainly who can see the notes, how long they are kept, and what happens to them... if you cannot explain in one sentence why it needs to exist in that specific meeting, it probably does not belong there." (medium-article.md)
+**Visual beat:** Back at the round table with the same direct report. Jesse has turned the device to face her and is explaining it openly. She is now leaning in, arms unfolded, engaged: the posture reverses Slide 2.
 
 ### Full Expanded Prompt
 
-**COMPOSITION — most important:** 4:5 single panel, portrait framing. Same desk nook, same angle as Slide 1. The gauge-dial device has returned to the desk in its Slide 1 position. Jesse now sits back in his chair rather than leaning forward, arms resting loosely on the chair's arms, looking directly toward the viewer's side of the frame rather than at the device, a settled, decided posture rather than an inspecting one.
+**COMPOSITION — most important:** 4:3 single panel, landscape. The round meeting table, same framing as Slide 2. Jesse on the left, leaning forward, one open hand gesturing toward the device, which he has slid toward the middle and turned to face her. The woman in the charcoal sweater on the right now leans forward too, forearms on the table, arms unfolded, looking at the device and then at Jesse with a relaxed, open expression. Both at equal human scale, leaning toward each other.
 
-**MECHANICAL ENVIRONMENT — second most important:** Same device as Slides 1-3: charcoal-gray puck body, lit ring collar, gauge dial with needle centered, unmarked. Notebook and lamp unchanged. Charcoal schematic linework occupies the upper-right corner, the same gauge-mechanism annotation as Slide 1, unchanged, reinforcing this as the deck's resting state. The S mark sits in this same upper-right position, unpainted charcoal.
+**MECHANICAL ENVIRONMENT — second most important:** The device: a palm-sized matte charcoal-gray puck with a ring collar around its upper rim and a small analog gauge dial on its front face, needle visible, dial face unmarked with no numbers or text. Ring collar lit, dial facing her. Coffee mug near her hand, no text. Blinds behind her half-open with visible slats. Charcoal schematic linework in the upper-right corner: the same microphone pickup-pattern blueprint as Slide 2, now drawn with a clear bounded edge, as if mapped and understood. The S mark sits within this schematic in the upper-right corner, unpainted charcoal.
 
 **Art style spec:** Crisp, uniform charcoal ink outlines (#333333), medium line weight throughout. Comic book precision — not sterile flat-art, not heavy superhero cross-hatching. Lines should suggest a technical patent drawing or a well-crafted indie comic panel. Loose, organic watercolor fills — visibly hand-painted. Color intentionally bleeds slightly outside the ink lines or leaves small white gaps at boundaries. Wet-edge textures and transparency variations are required — these are features, not errors. No digital gradients. No glow effects. No perfectly aligned fills. Base canvas: clean white paper texture (#ffffff). Single panel.
 
-**Aspect ratio:** 4:5
+**Aspect ratio:** 4:3
 
-**Color palette:** Primary watercolor wash: #100299 (deep blue). Canvas and negative space: #ffffff. Linework and shadows: #333333. Shadows are a semi-transparent charcoal watercolor wash, never solid black fill. The charcoal schematic layer stays unpainted linework. Supporting colors are allowed for depth and warmth but must not compete with the blue/white/charcoal triad.
+**Color palette:** Primary watercolor wash: #100299 (deep blue). Canvas and negative space: #ffffff. Linework and shadows: #333333. Shadows are a semi-transparent charcoal watercolor wash, never solid black fill. The charcoal schematic layer stays unpainted linework. Supporting colors are allowed for depth and warmth but must not compete with the blue/white/charcoal triad. The device's lit ring collar uses a small, contained warm amber wash; when the device is off, the collar is plain charcoal.
 
-**Primary character:** Man in his early 40s. Short buzz-cut hair. Neatly trimmed short beard and mustache. Brown eyes. V-neck long sleeve shirt in deep blue (#100299) watercolor wash. Charcoal pants. Relaxed, unposed, sitting back in the chair, arms loosely resting on the chair's arms, expression settled and direct, a stance of quiet conviction.
+**Primary character:** Man in his early 40s. Short buzz-cut hair. Neatly trimmed short beard and mustache. Brown eyes. V-neck long sleeve shirt in deep blue (#100299) watercolor wash. Charcoal pants. Relaxed, unposed — never stiff or formal. Seated, leaning forward, one open hand gesturing toward the device, expression plain, direct, and warm, mid-explanation.
 
-**Scene description:** Same desk, notebook, lamp, and device as Slide 1, reinforcing continuity. Negative space sits in the upper-right corner. No surface carries lettering.
+**Scene description:** Jesse's small office: his desk against the left wall, and a small round meeting table with two chairs in the right half of the room where he holds 1-on-1s. A window with half-open blinds on the back wall. Round-table side of the room. Mug, blinds, and every surface are blank and unlettered. Negative space in the upper-right corner is left open for the schematic layer.
 
-**Context box:** Uppercase sans-serif text inside a solid white (#ffffff) rectangle with a sharp charcoal (#333333) border. Placed at the extreme bottom of the panel. Text: CONSENT IS NOT THE SAME AS HONESTY
+**Context box:** None. This panel carries no text of any kind — no caption box, no labels, no lettering. Every letterable surface is blank.
 
 **Tone guardrails:** This image should feel like two people talking through a real problem in plain language. Not a motivational poster. Not corporate (no handshakes, whiteboards, or team huddles). Not inspirational abstraction. Grounded, human, and specific. The setting is a real place. The charcoal schematic supports the scene from the negative space — it does not float across the middle of the frame and it does not compete with the scene.
 
-**Logo note:** Upload `brand/logos/logo-symbol-compact.png` alongside this prompt as a reference image. Incorporate the S mark into the scene worked into the charcoal schematic gauge-mechanism annotation in the upper-right corner. Render it in charcoal linework, integrated into the annotation, never as a floating watermark.
+**Logo note:** Upload `brand/logos/logo-symbol-compact.png` alongside this prompt as a reference image. Incorporate the S mark into the scene as a stamped component label within the charcoal schematic in the upper-right corner of the frame. Render it in charcoal linework, integrated into the annotation, never as a floating watermark.
 
 ---
 
 ## Carousel Slide 6
 
-**Beat:** The tool cannot show you what it is costing you
-**Context box:** IT CANNOT SHOW YOU WHAT IT COSTS
+**Beat:** Framework part 2
+**Headline:** Try this on Monday
+**Body:** Pick the 1-on-1 where you most need the honest version. Turn the notetaker off, tell them why, and watch how the length of their answers changes.
+**Source:** "Pick the 1-on-1 you have where the conversation matters most this week... Turn off any recording or notetaking tool for that one meeting and tell the person why. Watch whether the length and shape of their answers change." (medium-article.md)
+**Visual beat:** The device is switched off, ring dark, pushed to the far corner of the desk in the background. At the round table the direct report is mid-story, gesturing; Jesse listens with an open paper notebook and pen.
 
 ### Full Expanded Prompt
 
-**COMPOSITION — most important:** 4:5 single panel, portrait framing. Same desk nook, seen from the same angle. Two chairs now sit side by side across the desk from Jesse, both empty, both angled identically toward the desk. Jesse sits at the desk in the upper portion of the frame, looking at the two chairs rather than at the device. The gauge-dial device sits at the desk's center in its usual position, ring collar lit exactly as in every other slide, needle centered.
+**COMPOSITION — most important:** 4:3 single panel, landscape. Wider shot of the office showing both halves. In the foreground right, the round table: the woman in the charcoal sweater is animated, leaning in, both hands mid-gesture, clearly telling a longer story. Jesse sits across from her on the left of the table, pen resting on an open paper notebook, listening, not writing. In the background left, on Jesse's desk, the small device sits pushed to the far corner, ring collar dark, clearly switched off.
 
-**MECHANICAL ENVIRONMENT — second most important:** Same device as prior slides: charcoal-gray puck body, lit ring collar, identical gauge reading in both implied cases. The two chairs are rendered identically to each other, same model, same angle, same distance from the desk, one presence/absence contrast: both chairs are simply empty and indistinguishable from one another, carrying the point that the device reads them the same regardless of what happened in them. Charcoal schematic linework occupies the upper-right corner, same annotation as Slide 1 and Slide 5, unchanged. The S mark sits in this same upper-right position, unpainted charcoal.
+**MECHANICAL ENVIRONMENT — second most important:** The device: a palm-sized matte charcoal-gray puck with a ring collar around its upper rim and a small analog gauge dial on its front face, needle visible, dial face unmarked with no numbers or text. Ring collar dark and unlit, needle resting at the far left stop. The open notebook shows only loose wavy pen lines, no legible words. The pen has a visible click mechanism. Charcoal schematic linework in the upper-right corner: a blueprint of the device's power switch shown in the off position. The S mark sits within this schematic in the upper-right corner, unpainted charcoal.
 
 **Art style spec:** Crisp, uniform charcoal ink outlines (#333333), medium line weight throughout. Comic book precision — not sterile flat-art, not heavy superhero cross-hatching. Lines should suggest a technical patent drawing or a well-crafted indie comic panel. Loose, organic watercolor fills — visibly hand-painted. Color intentionally bleeds slightly outside the ink lines or leaves small white gaps at boundaries. Wet-edge textures and transparency variations are required — these are features, not errors. No digital gradients. No glow effects. No perfectly aligned fills. Base canvas: clean white paper texture (#ffffff). Single panel.
 
-**Aspect ratio:** 4:5
+**Aspect ratio:** 4:3
 
-**Color palette:** Primary watercolor wash: #100299 (deep blue). Canvas and negative space: #ffffff. Linework and shadows: #333333. Shadows are a semi-transparent charcoal watercolor wash, never solid black fill. The charcoal schematic layer stays unpainted linework. Supporting colors are allowed for depth and warmth but must not compete with the blue/white/charcoal triad.
+**Color palette:** Primary watercolor wash: #100299 (deep blue). Canvas and negative space: #ffffff. Linework and shadows: #333333. Shadows are a semi-transparent charcoal watercolor wash, never solid black fill. The charcoal schematic layer stays unpainted linework. Supporting colors are allowed for depth and warmth but must not compete with the blue/white/charcoal triad. The device's lit ring collar uses a small, contained warm amber wash; when the device is off, the collar is plain charcoal.
 
-**Primary character:** Man in his early 40s. Short buzz-cut hair. Neatly trimmed short beard and mustache. Brown eyes. V-neck long sleeve shirt in deep blue (#100299) watercolor wash. Charcoal pants. Relaxed, unposed, seated at the desk, gaze directed at the two identical empty chairs, expression thoughtful, a little unsettled.
+**Primary character:** Man in his early 40s. Short buzz-cut hair. Neatly trimmed short beard and mustache. Brown eyes. V-neck long sleeve shirt in deep blue (#100299) watercolor wash. Charcoal pants. Relaxed, unposed — never stiff or formal. Seated, leaning back slightly, pen resting on the notebook, expression calm and fully attentive, listening.
 
-**Scene description:** Same desk, notebook, lamp, and device as prior slides. The two identical empty chairs sit where the single chair sat in Slide 3, the contrast carried by the pairing rather than any size difference between them. Negative space sits in the upper-right corner. No surface carries lettering.
+**Scene description:** Jesse's small office: his desk against the left wall, and a small round meeting table with two chairs in the right half of the room where he holds 1-on-1s. A window with half-open blinds on the back wall. Both halves of the office in frame. Notebook, desk, blinds, and lamp carry no lettering. Negative space in the upper-right corner is left open for the schematic layer.
 
-**Context box:** Uppercase sans-serif text inside a solid white (#ffffff) rectangle with a sharp charcoal (#333333) border. Placed at the extreme bottom of the panel. Text: IT CANNOT SHOW YOU WHAT IT COSTS
+**Context box:** None. This panel carries no text of any kind — no caption box, no labels, no lettering. Every letterable surface is blank.
 
 **Tone guardrails:** This image should feel like two people talking through a real problem in plain language. Not a motivational poster. Not corporate (no handshakes, whiteboards, or team huddles). Not inspirational abstraction. Grounded, human, and specific. The setting is a real place. The charcoal schematic supports the scene from the negative space — it does not float across the middle of the frame and it does not compete with the scene.
 
-**Logo note:** Upload `brand/logos/logo-symbol-compact.png` alongside this prompt as a reference image. Incorporate the S mark into the scene worked into the charcoal schematic gauge-mechanism annotation in the upper-right corner. Render it in charcoal linework, integrated into the annotation, never as a floating watermark.
+**Logo note:** Upload `brand/logos/logo-symbol-compact.png` alongside this prompt as a reference image. Incorporate the S mark into the scene as a stamped component label within the charcoal schematic in the upper-right corner of the frame. Render it in charcoal linework, integrated into the annotation, never as a floating watermark.
 
 ---
 
 ## Carousel Slide 7
 
-**Beat:** Close — the post's provocative closing question
-**Context box:** WHAT IS HAPPENING TO YOUR TEAM'S HONESTY?
+**Beat:** Close
+**Headline:** A notebook still works for the conversations that matter
+**Body:** If a notetaker sat in on your last 1-on-1, would you have said everything the same way?
+**Source:** "A notebook and your own memory still work just as well for the conversations that matter most." / "If a notetaker sat in on your last 1-on-1, would you have said everything the same way without it?" (medium-article.md)
+**Visual beat:** After the meeting: the round table empty, two chairs still angled toward each other, the open notebook left on the table. Jesse at the office doorway looking back at it. The dark device stays in the desk corner.
 
 ### Full Expanded Prompt
 
-**COMPOSITION — most important:** 4:5 single panel, portrait framing. Same desk nook, same angle as Slide 1. Jesse stands now rather than sits, having stepped back half a pace from the desk, both hands loosely at his sides, looking directly toward the viewer's side of the frame. The device remains on the desk in its usual position, small in the lower portion of the frame beneath him, ring collar lit.
+**COMPOSITION — most important:** 4:3 single panel, landscape. Wide shot of the office. The round table sits center-right, empty of people, two chairs still angled toward each other, an open notebook and pen left on the table between them. Jesse stands small at the office doorway on the far left edge of the frame, one hand on the door frame, looking back toward the table. On the desk in the background, the device sits in its corner, ring dark.
 
-**MECHANICAL ENVIRONMENT — second most important:** Same device as every prior slide: charcoal-gray puck body, lit ring collar, gauge dial centered, unmarked. Notebook and lamp unchanged in their usual positions. Charcoal schematic linework occupies the upper-right corner, same gauge-mechanism annotation used throughout the deck, unchanged, closing the visual set on the same note it opened on. The S mark sits in this same upper-right position, unpainted charcoal.
+**MECHANICAL ENVIRONMENT — second most important:** The device: a palm-sized matte charcoal-gray puck with a ring collar around its upper rim and a small analog gauge dial on its front face, needle visible, dial face unmarked with no numbers or text. Ring collar dark. The door shows a visible lever handle and hinge. The notebook lies open with only loose pen lines, no legible words. Charcoal schematic linework in the upper-right corner: a simple blueprint of the door's hinge and latch. The S mark sits within this schematic in the upper-right corner, unpainted charcoal.
 
 **Art style spec:** Crisp, uniform charcoal ink outlines (#333333), medium line weight throughout. Comic book precision — not sterile flat-art, not heavy superhero cross-hatching. Lines should suggest a technical patent drawing or a well-crafted indie comic panel. Loose, organic watercolor fills — visibly hand-painted. Color intentionally bleeds slightly outside the ink lines or leaves small white gaps at boundaries. Wet-edge textures and transparency variations are required — these are features, not errors. No digital gradients. No glow effects. No perfectly aligned fills. Base canvas: clean white paper texture (#ffffff). Single panel.
 
-**Aspect ratio:** 4:5
+**Aspect ratio:** 4:3
 
-**Color palette:** Primary watercolor wash: #100299 (deep blue). Canvas and negative space: #ffffff. Linework and shadows: #333333. Shadows are a semi-transparent charcoal watercolor wash, never solid black fill. The charcoal schematic layer stays unpainted linework. Supporting colors are allowed for depth and warmth but must not compete with the blue/white/charcoal triad.
+**Color palette:** Primary watercolor wash: #100299 (deep blue). Canvas and negative space: #ffffff. Linework and shadows: #333333. Shadows are a semi-transparent charcoal watercolor wash, never solid black fill. The charcoal schematic layer stays unpainted linework. Supporting colors are allowed for depth and warmth but must not compete with the blue/white/charcoal triad. The device's lit ring collar uses a small, contained warm amber wash; when the device is off, the collar is plain charcoal.
 
-**Primary character:** Man in his early 40s. Short buzz-cut hair. Neatly trimmed short beard and mustache. Brown eyes. V-neck long sleeve shirt in deep blue (#100299) watercolor wash. Charcoal pants. Relaxed, unposed, standing, having stepped back from the desk, hands loosely at his sides, expression calm, direct, open, posing the question rather than answering it.
+**Primary character:** Man in his early 40s. Short buzz-cut hair. Neatly trimmed short beard and mustache. Brown eyes. V-neck long sleeve shirt in deep blue (#100299) watercolor wash. Charcoal pants. Relaxed, unposed — never stiff or formal. Standing at the doorway, one hand on the frame, body half-turned back into the room, expression calm, reflective, a quiet question in it.
 
-**Scene description:** Same desk, notebook, lamp, and device as every prior slide, reinforcing that this closing image belongs to the same set. Negative space sits in the upper-right corner and around Jesse as he stands, left open and uncluttered. No surface carries lettering.
+**Scene description:** Jesse's small office: his desk against the left wall, and a small round meeting table with two chairs in the right half of the room where he holds 1-on-1s. A window with half-open blinds on the back wall. Wide enough to show the doorway, desk, and round table. No surface carries lettering. Negative space in the upper-right corner is left open for the schematic layer.
 
-**Context box:** Uppercase sans-serif text inside a solid white (#ffffff) rectangle with a sharp charcoal (#333333) border. Placed at the extreme bottom of the panel. Text: WHAT IS HAPPENING TO YOUR TEAM'S HONESTY?
+**Context box:** None. This panel carries no text of any kind — no caption box, no labels, no lettering. Every letterable surface is blank.
 
 **Tone guardrails:** This image should feel like two people talking through a real problem in plain language. Not a motivational poster. Not corporate (no handshakes, whiteboards, or team huddles). Not inspirational abstraction. Grounded, human, and specific. The setting is a real place. The charcoal schematic supports the scene from the negative space — it does not float across the middle of the frame and it does not compete with the scene.
 
-**Logo note:** Upload `brand/logos/logo-symbol-compact.png` alongside this prompt as a reference image. Incorporate the S mark into the scene worked into the charcoal schematic gauge-mechanism annotation in the upper-right corner. Render it in charcoal linework, integrated into the annotation, never as a floating watermark.
+**Logo note:** Upload `brand/logos/logo-symbol-compact.png` alongside this prompt as a reference image. Incorporate the S mark into the scene as a stamped component label within the charcoal schematic in the upper-right corner of the frame. Render it in charcoal linework, integrated into the annotation, never as a floating watermark.
